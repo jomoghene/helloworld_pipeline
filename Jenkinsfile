@@ -23,7 +23,7 @@ pipeline {
                 echo 'Image step'
             }
         }
-    
+    }
 
 pipeline {
     agent any
