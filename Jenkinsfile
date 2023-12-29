@@ -23,8 +23,8 @@ pipeline {
                 echo 'Image step'
             }
         }
-    }
-}
+    
+
 pipeline {
     agent any
     tools{
@@ -55,4 +55,4 @@ pipeline {
             }
         }
     }
-}
+
